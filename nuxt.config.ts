@@ -14,7 +14,7 @@ export default defineNuxtConfig({
         { hid: 'description', name: 'description', content: '' },
       ],
     },
-    // baseURL: '/English_Conjunctions_Adverb_Adjectives_Finder/',
+    baseURL: '/English_Conjunctions_Adverb_Adjectives_Finder/',
   },
 
   // Global css: https://nuxt.com/docs/api/configuration/nuxt-config#css
