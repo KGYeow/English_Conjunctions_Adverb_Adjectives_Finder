@@ -4,7 +4,7 @@
       <SharedUiCard title="English Conjunctions/Adverb/Adjectives Finder" height="fit-content" :header="false" :footer="false">
         <div class="text-body-1">
           <v-row>
-            <v-col cols="7" lg="7" md="6" sm="12" class="pe-5">
+            <v-col cols="12" lg="7" md="6" sm="12" class="pe-5">
               <v-sheet>
                 <!-- Card Title -->
                 <div class="pe-3 d-sm-flex align-center justify-space-between">
@@ -57,7 +57,7 @@
               </v-sheet>
             </v-col>
             <v-divider class="my-2" vertical/>
-            <v-col cols="5" lg="5" md="6" sm="12"  class="ps-8">
+            <v-col cols="12" lg="5" md="6" sm="12"  class="ps-8">
               <v-sheet rounded="1" color="grey200">
                 <v-row class="m-0 mb-3">
                   <v-col cols="4">

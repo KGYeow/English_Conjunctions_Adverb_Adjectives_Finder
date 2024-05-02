@@ -7,8 +7,7 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare",
-    "deploy": "nuxt generate && gh-pages --dotfiles -d .output/public"
+    "postinstall": "nuxt prepare"
   },
   "dependencies": {
     "@element-plus/nuxt": "^1.0.9",
@@ -28,7 +27,6 @@
     "vuetify": "^3.5.4"
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1",
     "nuxt": "^3.11.2"
   }
 }
